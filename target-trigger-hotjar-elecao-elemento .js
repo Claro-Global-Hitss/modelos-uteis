@@ -19,3 +19,5 @@ let interval = window.setInterval(function(){
     //limpa espera
     clearInterval(interval);
 }, 200);
+
+// commit

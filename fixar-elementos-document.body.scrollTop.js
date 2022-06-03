@@ -23,3 +23,5 @@ function handleScroll(elemId) { // declaração da função handleScroll
 
 window.onscroll = function () { handleScroll('cro-section') }; // chama a função. Deve ser acrescentado o ID (ou class) para ser chamada na função como parametro - "elemId"
 handleScroll(`cro-section`); // executa a função com ID elemento.
+
+//commit
